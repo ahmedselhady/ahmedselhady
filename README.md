@@ -1,4 +1,9 @@
-### Hi there 👋
+- Working On: Improving Query Focused Summarization Models using Deep Learning Models and Linguisitic Features Scoring.
+- Medium Articles:
+
+- Learning: Blackbox optimization
+Find me on 
+
 
 <!--
 **AhmedSalemElhady/AhmedSalemElhady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
