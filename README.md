@@ -1,7 +1,7 @@
 :computer: Working On: 
 - Improving Query Focused Summarization Models using Deep Learning Models and Linguisitic Features Scoring.
 
-Medium Articles:
+<img src="/medium.png" alt="medium" title="Medium" width="25" height="25" /> Medium Articles:
  - [Improving CNN for Text Coherence Modelling using Class Balancing Approaches](https://towardsdatascience.com/improving-convolutional-neural-networks-for-text-coherence-modelling-using-class-balancing-dc9083dd8987?_nonce=zraw70sv)
 
 :books: Learning: 
