@@ -1,4 +1,4 @@
-Working On: 
+:computer: Working On: 
 - Improving Query Focused Summarization Models using Deep Learning Models and Linguisitic Features Scoring.
 
 Medium Articles:
@@ -7,9 +7,9 @@ Medium Articles:
 :books: Learning: 
 - Blackbox optimization
 
-Find me on
+Find me on:
 
-![alt text][Facebook], ![alt text][LinkedIn], and ![alt text][Medium]
+![alt text][Facebook] ![alt text][LinkedIn] ![alt text][Medium]
 
 
 [Facebook]: https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white "FB account"
