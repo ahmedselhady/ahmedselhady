@@ -21,10 +21,10 @@ Find me on:
 </a>  
 </div>  
 
+[Mail]: https://img.shields.io/badge/GMail-G--Mail-red"GMail account"
 [Facebook]: https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white "FB account"
 [LinkedIn]: https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn account"
 [Medium]: https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white "FB account"
-
 
 <!--
 **AhmedSalemElhady/AhmedSalemElhady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
