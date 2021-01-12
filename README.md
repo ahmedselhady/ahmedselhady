@@ -9,6 +9,7 @@
  - [Improving CNN for Text Coherence Modelling using Class Balancing Approaches](https://towardsdatascience.com/improving-convolutional-neural-networks-for-text-coherence-modelling-using-class-balancing-dc9083dd8987?_nonce=zraw70sv)
 
 :books: Learning: 
+- Knowledge Distillation
 - Blackbox optimization
 
 Find me on:
