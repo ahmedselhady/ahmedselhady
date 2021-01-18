@@ -8,6 +8,7 @@
 <img src="/medium.png" alt="medium" title="Medium" width="25" height="25" /> Medium Articles:
  - [Improving CNN for Text Coherence Modelling using Class Balancing Approaches](https://towardsdatascience.com/improving-convolutional-neural-networks-for-text-coherence-modelling-using-class-balancing-dc9083dd8987?_nonce=zraw70sv)
 - [BERT: Working with Long Inputs](https://blog.agolo.com/bert-working-with-long-inputs-866479b9ac7e)
+
 :books: Learning: 
 - Knowledge Distillation
 - Blackbox optimization
