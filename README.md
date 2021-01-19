@@ -9,6 +9,7 @@
  - [Improving CNN for Text Coherence Modelling using Class Balancing Approaches](https://towardsdatascience.com/improving-convolutional-neural-networks-for-text-coherence-modelling-using-class-balancing-dc9083dd8987?_nonce=zraw70sv)
 - [BERT: Working with Long Inputs](https://blog.agolo.com/bert-working-with-long-inputs-866479b9ac7e)
 - [Understanding LongFormer’s Sliding Window Attention Mechanism](https://blog.agolo.com/understanding-longformers-sliding-window-attention-mechanism-f5d61048a907)
+
 :books: Learning: 
 - Knowledge Distillation
 - Blackbox optimization
