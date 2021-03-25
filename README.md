@@ -23,11 +23,7 @@ Personal Progress:
 </div>
 
 Work Progress:
-<div align="center"> 
- 
-![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=AgoloAhmedSalem&hide=issues,stars&show_icons=true&theme=radical?count_private=true)
-
-</div>
+- See my [Work Account](https://github.com/AgoloAhmedSalem)
 
 Find me on:
 
