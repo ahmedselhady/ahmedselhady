@@ -14,9 +14,18 @@
 - Knowledge Distillation
 - Blackbox optimization
 
-<div align="center"> 
 
+Personal Progress:
+<div align="center"> 
+ 
 ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=AhmedSalemElhady&hide=contribs,issues,stars&show_icons=true&theme=radical?count_private=true)
+
+</div>
+
+Work Progress:
+<div align="center"> 
+ 
+![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=AgoloAhmedSalem&hide=contribs,issues,stars&show_icons=true&theme=radical?count_private=true)
 
 </div>
 
