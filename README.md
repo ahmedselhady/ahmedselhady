@@ -14,6 +14,8 @@
 - Knowledge Distillation
 - Blackbox optimization
 
+![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=AhmedSalemElhady&hide=contribs,issues,stars&show_icons=true&theme=radical?count_private=true)
+
 Find me on:
 
 <div align="center"> 
