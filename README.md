@@ -1,8 +1,9 @@
 :name_badge: About Me:
 - Natural Language Processing Engineer at Agolo 
-- Teaching Assistant at Cairo University Faculty of Engineering
+- Graduate Teaching Assistant at Cairo University Faculty of Engineering
 
-:computer: Working On: 
+🔭 Exploring: 
+- Backbox optimization with curriculum learning.
 - Improving Query Focused Summarization Models using Deep Learning Models and Linguisitic Features Scoring.
 
 <img src="/medium.png" alt="medium" title="Medium" width="25" height="25" /> Medium Articles:
@@ -22,7 +23,7 @@ Personal Progress:
 
 </div>
 
-Work Progress:
+:computer: Work Progress:
 - See my [Work Account](https://github.com/AgoloAhmedSalem)
 
 Find me on:
