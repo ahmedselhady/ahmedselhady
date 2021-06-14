@@ -2,7 +2,7 @@
 - Natural Language Processing Engineer at Agolo 
 - Graduate Teaching Assistant at Cairo University Faculty of Engineering
 
-🔭 Exploring: 
+🕵️ Exploring: 
 - Backbox optimization with curriculum learning.
 - Improving Query Focused Summarization Models using Deep Learning Models and Linguisitic Features Scoring.
 
