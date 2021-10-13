@@ -1,9 +1,10 @@
 :name_badge: About Me:
 - Natural Language Processing Engineer at Agolo 
 - Graduate Teaching Assistant at Cairo University Faculty of Engineering
+- Msc Student at Cairo University Faculty of Engineering
 
 🕵️ Exploring: 
-- Backbox optimization with curriculum learning.
+- Backbox optimization and curriculum learning.
 - Improving Query Focused Summarization Models using Deep Learning Models and Linguisitic Features Scoring.
 
 <img src="/medium.png" alt="medium" title="Medium" width="25" height="25" /> Medium Articles:
