@@ -1,5 +1,5 @@
 :name_badge: About Me:
-* Natural Language Processing Engineer at Agolo 
+* Natural Language Processing Research Engineer at Agolo 
 * Former Graduate Teaching Assistant at Cairo University Faculty of Engineering
   - Teached Pattern Recognition and Neural Networks for Senior Computer Engineering Students 
 <!-- * Msc Student at Cairo University Faculty of Engineering -->
