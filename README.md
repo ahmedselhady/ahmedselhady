@@ -1,11 +1,12 @@
 :name_badge: About Me:
-- Natural Language Processing Engineer at Agolo 
-- Graduate Teaching Assistant at Cairo University Faculty of Engineering
-- Msc Student at Cairo University Faculty of Engineering
+* Natural Language Processing Engineer at Agolo 
+* Former Graduate Teaching Assistant at Cairo University Faculty of Engineering
+  - Teached Pattern Recognition and Neural Networks for Senior Computer Engineering Students 
+<!-- * Msc Student at Cairo University Faculty of Engineering -->
 
 🕵️ Exploring: 
-- Backbox optimization and curriculum learning.
 - Improving Query Focused Summarization Models using Deep Learning Models and Linguisitic Features Scoring.
+- Semi-supervised learning in effect: application to Extractive Summarization
 
 <img src="/medium.png" alt="medium" title="Medium" width="25" height="25" /> Medium Articles:
  - [Improving CNN for Text Coherence Modelling using Class Balancing Approaches](https://towardsdatascience.com/improving-convolutional-neural-networks-for-text-coherence-modelling-using-class-balancing-dc9083dd8987?_nonce=zraw70sv)
@@ -14,7 +15,8 @@
 
 :books: Learning: 
 - Knowledge Distillation
-- Blackbox optimization
+- Proxy/Semi Supervised Learning
+
 
 
 Personal Progress:
@@ -27,7 +29,7 @@ Personal Progress:
 :computer: Work Progress:
 - See my [Work Account](https://github.com/AgoloAhmedSalem)
 
-Find me on:
+📫  Find me on:
 
 <div align="center"> 
 <a href="https://www.linkedin.com/in/aselhady/" target="_blank">
