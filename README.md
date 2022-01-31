@@ -1,8 +1,8 @@
 :name_badge: About Me:
 * Natural Language Processing Research Engineer at Agolo 
 * Former Graduate Teaching Assistant at Cairo University Faculty of Engineering
-  - Teached Pattern Recognition and Neural Networks for Senior Computer Engineering Students
-    - Classes of Fall 2020, Fall 2021. [Material and Data](git@github.com:AhmedSalemElhady/CMPN450-Pattern-Recognition-And-Neural-Networks.git)  
+  - Teached Pattern Recognition and Neural Networks for Senior Computer Engineering Students.
+    - Classes of Fall 2020 and Fall 2021 [[Material]](https://github.com/AhmedSalemElhady/CMPN450-Pattern-Recognition-And-Neural-Networks)  
 <!-- * Msc Student at Cairo University Faculty of Engineering -->
 
 🕵️ Exploring: 
