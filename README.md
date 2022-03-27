@@ -1,13 +1,19 @@
 :name_badge: About Me:
 * Natural Language Processing Research Engineer at Agolo 
+* MSc Student at Zewail City of Science and Technology, Artificial Intelligence Program
+* Graduate Teaching Assistant at Zewail City of Science and Technology, Computer Informatics Department
+  - Teaching Introduction to Statistical NLP for Senior Computer Informatics Students  
 * Former Graduate Teaching Assistant at Cairo University Faculty of Engineering
-  - Teached Pattern Recognition and Neural Networks for Senior Computer Engineering Students.
+  - Teached Pattern Recognition and Neural Networks for Senior Computer Engineering Students
     - Classes of Fall 2020 and Fall 2021 [[Material]](https://github.com/AhmedSalemElhady/CMPN450-Pattern-Recognition-And-Neural-Networks)  
 <!-- * Msc Student at Cairo University Faculty of Engineering -->
 
 🕵️ Exploring: 
-- Improving Query Focused Summarization Models using Deep Learning Models and Linguisitic Features Scoring.
+- Improving Query/Ontology Based Summarization Models using Deep Learning Models and Linguisitic Features Scoring.
 - Semi-supervised learning in effect: application to Extractive Summarization
+  - Zero/Few Shot Domain Adaptation
+  - Deletion Based Sentence Compression
+- Dialouge/Conversation Summarization
 
 <img src="/medium.png" alt="medium" title="Medium" width="25" height="25" /> Medium Articles:
  - [Improving CNN for Text Coherence Modelling using Class Balancing Approaches](https://towardsdatascience.com/improving-convolutional-neural-networks-for-text-coherence-modelling-using-class-balancing-dc9083dd8987?_nonce=zraw70sv)
