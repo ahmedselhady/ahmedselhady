@@ -9,8 +9,10 @@
 <!-- * Msc Student at Cairo University Faculty of Engineering -->
 
 🕵️ Exploring: 
+- Knowledge Graphs and Unsupervised Relationship Representation  
 - Improving Query/Ontology Based Summarization Models using Deep Learning Models and Linguisitic Features Scoring.
 - Semi-supervised learning in effect: application to Extractive Summarization
+  - Continuous Model Size Reduction for Distillation
   - Zero/Few Shot Domain Adaptation
   - Deletion Based Sentence Compression
 - Dialouge/Conversation Summarization
