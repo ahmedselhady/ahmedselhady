@@ -1,7 +1,25 @@
+📫  Find me on:
+
+<div align="center"> 
+<a href="https://www.linkedin.com/in/aselhady/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://ahelhady.medium.com/" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/a_s_elhady97" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%232E87FB.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
+<a href="https://www.facebook.com/ahmed.salemelhady" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
 :name_badge: About Me:
-* Natural Language Processing Research Engineer at Agolo 
-* MSc Student at Zewail City of Science and Technology, Artificial Intelligence Program
-* Graduate Teaching Assistant at Zewail City of Science and Technology, Computer Informatics Department
+* Senior Natural Language Processing Research Engineer at Agolo 
+* MSc Student at Zewail City of Science and Technology, [Artificial Intelligence Program](https://www.zewailcity.edu.eg/new/media-library/PDFs/graduate_programs.pdf), Chapter 7.10.1,
+  - Premasters Grade GPA (4.0/4.0)
+* Former Graduate Teaching Assistant at Zewail City of Science and Technology, Computer Informatics Department
   - Teaching Introduction to Statistical NLP for Senior Computer Informatics Students  
 * Former Graduate Teaching Assistant at Cairo University Faculty of Engineering
   - Teached Pattern Recognition and Neural Networks for Senior Computer Engineering Students
@@ -23,8 +41,7 @@
 - [Understanding LongFormer’s Sliding Window Attention Mechanism](https://blog.agolo.com/understanding-longformers-sliding-window-attention-mechanism-f5d61048a907)
 
 :books: Learning: 
-- Knowledge Distillation
-- Proxy/Semi Supervised Learning
+- Prompt Tuning for Abstractive Summarization
 
 
 
@@ -38,24 +55,12 @@ Personal Progress:
 :computer: Work Progress:
 - See my [Work Account](https://github.com/AgoloAhmedSalem)
 
-📫  Find me on:
-
-<div align="center"> 
-<a href="https://www.linkedin.com/in/aselhady/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://ahelhady.medium.com/" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/ahmed.salemelhady" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>  
 
 [Mail]: https://img.shields.io/badge/GMail-G--Mail-red "GMail account"
 [Facebook]: https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white "FB account"
 [LinkedIn]: https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn account"
 [Medium]: https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white "Medium Blog"
+[Twitter]: https://twitter.com/a_s_elhady97 "Twitter account"
 
 <!--
 **AhmedSalemElhady/AhmedSalemElhady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
