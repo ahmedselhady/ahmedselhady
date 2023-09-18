@@ -16,7 +16,9 @@
 </div>  
 
 :name_badge: About Me:
-* Senior Natural Language Processing Research Engineer at Agolo 
+* Applied Data Scientist (NLP) II @ Microsoft
+  - Content Moderation and Understanding, MS News. 
+* Former Natural Language Processing Research Engineer || @ [[Agolo](https://www.agolo.com/) 
 * MSc Student at Zewail City of Science and Technology, [Artificial Intelligence Program](https://www.zewailcity.edu.eg/new/media-library/PDFs/graduate_programs.pdf), Chapter 7.10.1,
   - Premasters Grade GPA (4.0/4.0)
 * Former Graduate Teaching Assistant at Zewail City of Science and Technology, Computer Informatics Department
@@ -27,13 +29,10 @@
 <!-- * Msc Student at Cairo University Faculty of Engineering -->
 
 🕵️ Exploring: 
-- Knowledge Graphs and Unsupervised Relationship Representation  
-- Improving Query/Ontology Based Summarization Models using Deep Learning Models and Linguisitic Features Scoring.
-- Semi-supervised learning in effect: application to Extractive Summarization
-  - Continuous Model Size Reduction for Distillation
-  - Zero/Few Shot Domain Adaptation
-  - Deletion Based Sentence Compression
-- Dialouge/Conversation Summarization
+- Controlled Generation's applications to
+  - Faithful Abstractive Summarization 
+  - Dialouge/Conversation Summarization
+- LLMs Self-alignment
 
 <img src="/medium.png" alt="medium" title="Medium" width="25" height="25" /> Medium Articles:
  - [Improving CNN for Text Coherence Modelling using Class Balancing Approaches](https://towardsdatascience.com/improving-convolutional-neural-networks-for-text-coherence-modelling-using-class-balancing-dc9083dd8987?_nonce=zraw70sv)
