@@ -16,7 +16,7 @@
 </div>  
 
 :name_badge: About Me:
-* Applied Data Scientist (NLP) II @ Microsoft
+* Applied Data Scientist (NLP) II @ [Microsoft](https://www.microsoft.com/en-us/research/group/advanced-technology-lab-cairo-2/)
   - Content Moderation and Understanding, MS News. 
 * Former Natural Language Processing Research Engineer II @ [Agolo](https://www.agolo.com/) 
 * MSc Student at Zewail City of Science and Technology, [Artificial Intelligence Program](https://www.zewailcity.edu.eg/new/media-library/PDFs/graduate_programs.pdf), Chapter 7.10.1,
