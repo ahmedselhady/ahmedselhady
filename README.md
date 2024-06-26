@@ -13,10 +13,17 @@
 <a href="https://www.facebook.com/ahmed.salemelhady" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
+  <a href="https://scholar.google.com/citations?user=9gk2mKsAAAAJ&hl=en" target="_blank">
+<img src=https://img.shields.io/badge/Google_Scholar-222?&logo=google-scholar  alt=googlescholar style="margin-bottom: 5px;" />
+</a> 
+
+  
 </div>  
 
 :name_badge: About Me:
-* Applied Data Scientist (NLP) II @ [Microsoft](https://www.microsoft.com/en-us/research/group/advanced-technology-lab-cairo-2/)
+* PhD Student Researcher @ University of Basque Country, [HiTZ Lab](https://www.hitz.eus/)
+  - Working on multilingual capabilities in Large Language Models
+* Former Applied Data Scientist (NLP) II @ [Microsoft](https://www.microsoft.com/en-us/research/group/advanced-technology-lab-cairo-2/)
   - Content Moderation and Understanding, MS News. 
 * Former Natural Language Processing Research Engineer II @ [Agolo](https://www.agolo.com/) 
 * MSc Student at Zewail City of Science and Technology, [Artificial Intelligence Program](https://www.zewailcity.edu.eg/new/media-library/PDFs/graduate_programs.pdf), Chapter 7.10.1,
